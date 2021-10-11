@@ -1,0 +1,161 @@
+*{
+	
+	box-sizing:border-box;
+
+	font-family: 'Cabin', sans-serif;
+	
+}
+
+.logo{
+	
+
+	
+}
+
+.cname{
+	
+	
+	/* border-style:solid; */
+	text-align:center;
+	height:180px;
+	padding-top:50px;
+	font-size:55px;
+	font-weight:bold;
+	background-color:#98BFA7 ;
+	color:white;
+	font-family: 'Rock Salt', cursive;
+}
+
+.menu{
+	
+	/* border-style:solid; */
+	height:45px;
+	text-align:center;
+	padding-top:10px;
+	font-size:20px;
+	font-weight:bold;
+	text-decoration:none;
+	background-color:#1098DC;
+}
+
+.menu a{
+	
+	text-decoration:none;
+	color:white;
+	display:block;
+	
+}
+	
+.banner{
+
+    margin-top:10px;
+}
+
+.section{
+	
+	/* border-style:solid; */
+	height:50px;
+	text-align:center;
+	padding-top:10px;
+	font-size:20px;
+	font-weight:bold;
+	background-color:#1098DC;
+    color:white;
+	margin-top:10px;
+}
+
+.about{
+	
+	margin-top:10px;
+	text-align:jusitfy;
+	color:black;
+}
+
+
+.service{
+	Margin-top:10px;
+	box-shadow:0px 0px 8px 5px #CAC7C7;
+	padding:5px;
+	transition-property:transform;
+	transition-duration:3s;
+	text-align:justify; 
+	
+}
+
+.service:hover{
+	
+	transform:scale(1.1);
+	background-color:#1098DC;
+	
+}
+
+
+.contact{
+	Margin-top:10px;
+	
+}
+
+.footer{
+	height:200px;
+	background-color:#1098DC;
+	Margin-top:2px;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	padding-top:15px;
+	color:white;
+	box-shadow:5px 5px rgb(215,218,210);
+	margin-bottom:10px;
+}
+
+.contact {
+	text-decoration:none;
+}
+
+#whatsapp{
+	position:fixed;
+	right:30px;
+	bottom:100px;
+}
+
+#phone{
+	position:fixed;
+	right:30px;
+	bottom:20px;
+}
+
+.class{
+	margin-top:10px;
+	text-align:justify;
+	left:50px;
+}
+
+input [type="submit"]{
+color:Black;
+background-color:#32CD32;
+}
+
+
+.youtube {
+  background: #bb0000;
+  color: white;
+  
+}
+
+.insta{
+  background: #125688;
+  color: white;
+}
+
+.fb{
+  background:#3B5998;
+  color: white;
+}
+
+
+.mar{
+	margin:2px;
+	font-weight:bold;
+	color:red;
+	
+}
